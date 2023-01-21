@@ -12,6 +12,11 @@ Club Details
 
 ![clubDetails](https://user-images.githubusercontent.com/112892620/213876378-17604b87-d525-4c94-8fb3-a2c3fb55b9ec.png)
 
+Add a club
+
+![add club](https://user-images.githubusercontent.com/112892620/213876488-2e34b4b9-87f2-4ec8-b463-802b1f3bff29.png)
+
+
 
 
 
