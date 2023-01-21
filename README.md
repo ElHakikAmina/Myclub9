@@ -16,6 +16,11 @@ Add a club
 
 ![add club](https://user-images.githubusercontent.com/112892620/213876488-2e34b4b9-87f2-4ec8-b463-802b1f3bff29.png)
 
+Add a member
+
+![add member](https://user-images.githubusercontent.com/112892620/213876557-5338aa66-822c-4102-9250-8c87e3c4b278.png)
+
+
 
 
 
