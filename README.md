@@ -1,4 +1,6 @@
 # Myclub9
+MyClub9 is a website where can YouCode school create clubs, The admin must login so he can add a club, add a member in a club, delete a club or update it, update a member info or delete him.
+
 ![myclub9](https://user-images.githubusercontent.com/112892620/214093266-469ba09f-3b94-4db2-a410-c698dd6d13f7.png)
 
 Home Page
